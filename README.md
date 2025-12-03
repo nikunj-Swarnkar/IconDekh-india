@@ -1,6 +1,6 @@
-# Local Heroes Flutter App
+# IconDekh-india App
 
-A Flutter mobile application showcasing local changemakers and unsung heroes in the community. Built for a competition with the theme **"Local Heroes - Showcasing local changemakers or unsung heroes in the community"**.
+A Flutter mobile application showcasing local changemakers and unsung heroes in the community. Built for a competition with the theme **"IconDekh-india - Showcasing local changemakers or unsung heroes in the community"**.
 
 ## 🎯 Competition Theme
 
@@ -92,7 +92,7 @@ flutter build ios --release
 ## 📁 Project Structure
 
 ```
-local_heroes_flutter/
+IconDekh-india/
 ├── lib/
 │   ├── main.dart                    # App entry point
 │   ├── models/
@@ -151,10 +151,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Inspired by the original React/TypeScript IconDeck-India web application
 - Built for the "Local Heroes" themed competition
 - Thanks to all the unsung heroes who inspire us every day
 
 ---
 
-Made with ❤️ for celebrating local community heroes
+Made with ❤️ for celebrating IconDekh-india
